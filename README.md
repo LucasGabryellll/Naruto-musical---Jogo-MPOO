@@ -1,7 +1,7 @@
 ## Jogo desenvolvido na cadeira - Modelagem de Programação Orientada a Objetos.
 
 ### ⌛ O jogo está incompleto.
-## Objetivo: Era sair pelo mapa coletando notas para formar o campo harmonico, a nota seria pega ao jogador responder corretamente a pergunta que iria aparecer.
+Objetivo: Era sair pelo mapa coletando notas para formar o campo harmonico, a nota seria pega ao jogador responder corretamente a pergunta que iria aparecer.
 
 ## Image do mapa
 <p align="center">
