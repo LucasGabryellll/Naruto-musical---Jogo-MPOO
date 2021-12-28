@@ -22,6 +22,7 @@ Objetivo: Era sair pelo mapa coletando notas para formar o campo harmonico, a no
   ## 🚀 Tecnologias:
   Esse projeto foi desenvolvido com as seguintes tecnologias:
    - JAVA
+   - Tile Map (Para montagem do cenário.
 
 ## 🎓 Cuso:
  - Sistemas de Informações.
